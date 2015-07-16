@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"text/template"
 
-	"bitbucket.org/kardianos/osext"
+	"github.com/dashsoftware/osext"
 )
 
 const (
