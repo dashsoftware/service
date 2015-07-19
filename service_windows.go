@@ -3,9 +3,9 @@ package service
 import (
 	"fmt"
 
-	"github.com/btcsuite/winsvc/eventlog"
-	"github.com/btcsuite/winsvc/mgr"
-	"github.com/btcsuite/winsvc/svc"
+	"code.google.com/p/winsvc/eventlog"
+	"code.google.com/p/winsvc/mgr"
+	"code.google.com/p/winsvc/svc"
 	"github.com/dashsoftware/osext"
 )
 
