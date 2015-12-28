@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"bitbucket.org/kardianos/service"
+	"github.com/dashsoftware/service"
 )
 
 var log service.Logger

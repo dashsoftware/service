@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"bitbucket.org/kardianos/osext"
+	"github.com/dashsoftware/osext"
 	"gopkg.in/fsnotify.v1"
 )
 
