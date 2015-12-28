@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"os"
 
-	"bitbucket.org/kardianos/service"
+	"github.com/dashsoftware/service"
 )
 
 // Standard service configuration. Start MUST block.
